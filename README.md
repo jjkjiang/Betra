@@ -1,4 +1,4 @@
-THIS PROJECT IS PROBABLY
+THIS PROJECT IS PROBABLY DEAD
 
 # Betra
 Project was inspired by UCR A+ Course Planner. 

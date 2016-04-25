@@ -1,3 +1,5 @@
+THIS PROJECT IS PROBABLY
+
 # Betra
 Project was inspired by UCR A+ Course Planner. 
 
